@@ -1,5 +1,5 @@
 package com.example.demo;
-
+//Hello in demo app
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
